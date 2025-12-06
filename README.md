@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YYDongRo/AutoMessageMod/main/banner.png" alt="AutoMessageMod Banner" />
+</p>
+
+
 # AutoMessageMod (Forge 1.8.9)
 
 **AutoMessageMod** is a lightweight Forge 1.8.9 client-side mod that automatically sends a random message from a list that you can edit in Hypixel Bedwars whenever you kill a player.  
@@ -52,6 +57,7 @@ private static final String[] MESSAGES = {
 `
 build/libs/
 `
+
 
 
 
