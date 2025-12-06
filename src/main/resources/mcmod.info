@@ -1,0 +1,10 @@
+[
+  {
+    "modid": "autosarcasm",
+    "name": "Auto Sarcasm",
+    "description": "Automatically shouts mild messages on BedWars kill.",
+    "version": "1.0",
+    "mcversion": "1.8.9",
+    "authorList": ["Dongjiankuan"]
+  }
+]
