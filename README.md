@@ -9,6 +9,8 @@
 
 Each message is unique per game to avoid duplicates and always stays within Hypixel’s chat rules.
 
+***JDK 8 environment required***
+
 ---
 
 ## Features
@@ -57,6 +59,7 @@ private static final String[] MESSAGES = {
 `
 build/libs/
 `
+
 
 
 
